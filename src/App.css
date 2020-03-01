@@ -1,3 +1,9 @@
+.Title {
+  background-color: #000;
+  display: block;
+  color: #fff;
+  padding-left: 17px;
+}
 .App {
   text-align: center;
 }
